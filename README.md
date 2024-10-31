@@ -3,8 +3,7 @@ This is a new method for check Coefficient of Performance in VRF system
 ## Introduction
 We proposed an IoT platform for checking real-time performance of HVAC system.
 
-## Algorthim
-Algorithm: Coefficient of Performance (COP) Calculation
+## Algorthm--Coefficient of Performance (COP) Calculation
 
 ### Input: 
 - T_in, RH_in \
