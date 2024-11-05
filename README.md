@@ -1,7 +1,7 @@
 # Realtime HVAC system performace ckeck kit
-<img src="Image/BI-Tech.gif" alt="" width="500" style="display: block; margin: 0 auto;" />
-This is a IoT based BI-Tech(Behavioral Insight X Technology) platform for check Coefficient of Performance (COP) real-time in VRF system. 
 
+This is a IoT based BI-Tech(Behavioral Insight X Technology) platform for check Coefficient of Performance (COP) real-time in VRF system.\ 
+<img src="Image/BI-Tech.gif" alt="" width="300" style="display: block; margin: 0 auto;" />
 ## Introduction
 This platform consists of 3 parts: 
 - Offline Training.
