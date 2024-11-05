@@ -37,7 +37,7 @@ We conducted comparing experiment and data analyzation via random forest model.
 For ensuring the energy consumption result measruing by proposed IoT kit, we conducted a compare experiment with commerical power monitore (T&D clamp sensor). The result shows the 5% difference for 10 days experiment.
 
 <div align=center>
-<img src="Image/Result1.png" alt="flowchart" width="500"/>
+<img src="Image/Result1.png" alt="result1" width="500"/>
 </div>
 
 <div style="display: flex; justify-content: space-between align=center;">
@@ -46,8 +46,14 @@ For ensuring the energy consumption result measruing by proposed IoT kit, we con
 </div>
 
 ### With Testo 420 commerical outlet sensor
+
+<div style="display: flex; justify-content: space-between align=center;">
+    <img src="Image/Figure_2.png" alt="flowchart1" width="45%">
+    <img src="Image/Figure_1.png" alt="flowchart2" width="45%">
+</div>
+
 <div align=center>
-<img src="Image/Result2.png" alt="flowchart" width="500"/>
+<img src="Image/Result2.png" alt="result2" width="500"/>
 </div>
 
 ### Analyzation via Random Forest model
