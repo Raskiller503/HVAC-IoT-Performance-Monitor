@@ -28,7 +28,7 @@ P_total // Total power consumption
 7: Validate COP // Check if COP < 0 or COP > 10, mark as potential outlier\
 
 ## Reference
-For more detailed information on PMV calculation and thermal comfort, please refer to the following paper:
+For more detailed information, please refer to the following paper:
 - __Yutong CHEN__,
 [An IoT-Based Interactive Diagnostic System for HVAC Performance in Office Buildings](https://publications.ibpsa.org/asim-conference-proceedings/), ASim(The 5th Asia Conference of International Building
 Performance Simulation Association)2024.
