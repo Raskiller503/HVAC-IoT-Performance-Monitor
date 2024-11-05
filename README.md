@@ -1,8 +1,18 @@
-# IoT-based-HVAC-system-performace-relatime-ckeck-kit
-This is a new method for check Coefficient of Performance in VRF system 
+# Realtime HVAC system performace ckeck kit
+This is a IoT based platform for check Coefficient of Performance (COP) real-time in VRF system. 
 ## Introduction
-We proposed an IoT platform for checking real-time performance of HVAC system.
+This platform consists of 3 parts: \
+- Offline Training.
+- Cloud compution.
+- Apllication.
+
 ![flowchart](Image/flowchart.png)
+
+## Hardware
+- Power monitor part
+- Indoor outlet part 
+![Check_kit](Image/Check_kit.png)
+
 ## Algorthm--Coefficient of Performance (COP) Calculation
 
 ### Input: 
@@ -27,11 +37,14 @@ P_total // Total power consumption
 6: COP ← Q_cooling / (P_total / 1000) // Calculate COP, converting power from watts to kilowatts\
 7: Validate COP // Check if COP < 0 or COP > 10, mark as potential outlier
 
+## Comparing experiment with commerical power monitor
+For ensuring the energy consumption result measruing by proposed IoT kit, we conducted a compare experiment with commerical power monitore (T&D clamp sensor). The result shows the 5% difference for 10 days experiment.
+![Result1](Image/Electricity_1.png)
+![Result2](Image/Electricity_2.png)
+
+
 ## Reference
 For more detailed information, please refer to the following paper:
 - __Yutong CHEN__,
-[An IoT-Based Interactive Diagnostic System for HVAC Performance in Office Buildings](https://publications.ibpsa.org/asim-conference-proceedings/), ASim(The 5th Asia Conference of International Building
-Performance Simulation Association)2024.
-
-
-
+[An IoT-Based Interactive Diagnostic System for HVAC Performance in Office Buildings](https://publications.ibpsa.org/asim-conference-proceedings/), ASim 2024 (The 5th Asia Conference of International Building
+Performance Simulation Association).
