@@ -11,7 +11,7 @@ This platform consists of 3 parts: \
 ## Hardware
 - Power monitor part
 - Indoor outlet part
-<img src="Image/Check_kit.png" alt="flowchart" width="1000"/>
+<img src="Image/Check_kit.png" alt="flowchart" width="700"/>
 
 ## Algorthm--Coefficient of Performance (COP) Calculation
 
