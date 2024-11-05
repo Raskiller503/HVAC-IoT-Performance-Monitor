@@ -58,11 +58,12 @@ For ensuring the energy consumption result measruing by proposed IoT kit, we con
 </div>
 
 <div align=center>
-<img src="Image/Result1.png" alt="flowchart" width="700"/>
+<img src="Image/Result1.png" alt="flowchart" width="500"/>
 </div>
+
 ### With T420 outlet sensor
 <div align=center>
-<img src="Image/Result2.png" alt="flowchart" width="700"/>
+<img src="Image/Result2.png" alt="flowchart" width="500"/>
 </div>
 
 ## Reference
