@@ -31,7 +31,8 @@ This platform consists of 3 parts:
 <img src="Image/Algorithm.png" alt="flowchart" width="500" style="display: block; margin: 0 auto;" />
 </div>
 
-## Comparing experiment 
+## Comparing experiment result
+We conducted comparing experiment and data analyzation via random forest model.
 ### With commerical power monitor
 For ensuring the energy consumption result measruing by proposed IoT kit, we conducted a compare experiment with commerical power monitore (T&D clamp sensor). The result shows the 5% difference for 10 days experiment.
 
@@ -48,6 +49,12 @@ For ensuring the energy consumption result measruing by proposed IoT kit, we con
 <div align=center>
 <img src="Image/Result2.png" alt="flowchart" width="500"/>
 </div>
+
+### Analyzation via Random Forest model
+<div align=center>
+<img src="Image/RF_importance_partial.png" alt="flowchart" width="700"/>
+</div>
+
 
 ## Reference
 For more detailed information, please refer to the following paper:
