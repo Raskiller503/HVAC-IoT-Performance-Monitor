@@ -10,8 +10,8 @@ This platform consists of 3 parts: \
 
 ## Hardware
 - Power monitor part
-- Indoor outlet part 
-![Check_kit](Image/Check_kit.png)
+- Indoor outlet part
+<img src="Image/Check_kit.png" alt="flowchart" width="1000"/>
 
 ## Algorthm--Coefficient of Performance (COP) Calculation
 
@@ -43,10 +43,6 @@ For ensuring the energy consumption result measruing by proposed IoT kit, we con
     <img src="Image/Electricity_1.png" alt="flowchart1" width="45%">
     <img src="Image/Electricity_2.png" alt="flowchart2" width="45%">
 </div>
-
-![Result1](Image/Electricity_1.png)
-![Result2](Image/Electricity_2.png)
-
 
 ## Reference
 For more detailed information, please refer to the following paper:
