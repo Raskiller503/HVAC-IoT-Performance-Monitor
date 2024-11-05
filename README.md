@@ -6,7 +6,7 @@ This platform consists of 3 parts: \
 - Cloud compution.
 - Apllication.
 
-!<img src="Image/flowchart.png" alt="flowchart" width="500"/>
+<img src="Image/flowchart.png" alt="flowchart" width="500"/>
 
 ## Hardware
 - Power monitor part
@@ -39,6 +39,11 @@ P_total // Total power consumption
 
 ## Comparing experiment with commerical power monitor
 For ensuring the energy consumption result measruing by proposed IoT kit, we conducted a compare experiment with commerical power monitore (T&D clamp sensor). The result shows the 5% difference for 10 days experiment.
+<div style="display: flex; justify-content: space-between;">
+    <img src="Image/Electricity_1.png" alt="flowchart1" width="45%">
+    <img src="Image/Electricity_2.png" alt="flowchart2" width="45%">
+</div>
+
 ![Result1](Image/Electricity_1.png)
 ![Result2](Image/Electricity_2.png)
 
