@@ -1,22 +1,29 @@
 # Realtime HVAC system performace ckeck kit
 
 This is a IoT based BI-Tech(Behavioral Insight X Technology) platform for check Coefficient of Performance (COP) real-time in VRF system.\ 
-<img src="Image/BI-Tech.gif" alt="" width="300" style="display: block; margin: 0 auto;" />
+
+<div align=center>
+<img src="Image/BI-Tech.gif" width="300" > 
+</div>
+
+
 ## Introduction
 This platform consists of 3 parts: 
 - Offline Training.
 - Cloud compution.
 - Apllication.
 
-
+<div align=center>
 <img src="Image/flowchart.png" alt="flowchart" width="500" style="display: block; margin: 0 auto;" />
-
+</div>
 
 
 ## Hardware
 - Power monitor part
 - Indoor outlet part
+<div align=center>
 <img src="Image/Check_kit.png" alt="flowchart" width="700"/>
+</div>
 
 ## Algorthm--Coefficient of Performance (COP) Calculation
 
@@ -44,7 +51,7 @@ P_total // Total power consumption
 
 ## Comparing experiment with commerical power monitor
 For ensuring the energy consumption result measruing by proposed IoT kit, we conducted a compare experiment with commerical power monitore (T&D clamp sensor). The result shows the 5% difference for 10 days experiment.
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between align=center;">
     <img src="Image/Electricity_1.png" alt="flowchart1" width="45%">
     <img src="Image/Electricity_2.png" alt="flowchart2" width="45%">
 </div>
