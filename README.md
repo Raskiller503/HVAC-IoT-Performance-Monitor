@@ -8,7 +8,8 @@ This platform consists of 3 parts:
 - Apllication.
 
 
-<img src="Image/flowchart.png" alt="flowchart" width="500" style="margin: 0 auto;" />
+<img src="Image/flowchart.png" alt="flowchart" width="500" style="display: block; margin: 0 auto;" />
+
 
 
 ## Hardware
