@@ -52,16 +52,17 @@ P_total // Total power consumption
 ## Comparing experiment 
 ### With commerical power monitor
 For ensuring the energy consumption result measruing by proposed IoT kit, we conducted a compare experiment with commerical power monitore (T&D clamp sensor). The result shows the 5% difference for 10 days experiment.
-<div style="display: flex; justify-content: space-between align=center;">
-    <img src="Image/Electricity_1.png" alt="flowchart1" width="45%">
-    <img src="Image/Electricity_2.png" alt="flowchart2" width="45%">
-</div>
 
 <div align=center>
 <img src="Image/Result1.png" alt="flowchart" width="500"/>
 </div>
 
-### With T420 outlet sensor
+<div style="display: flex; justify-content: space-between align=center;">
+    <img src="Image/Electricity_1.png" alt="flowchart1" width="45%">
+    <img src="Image/Electricity_2.png" alt="flowchart2" width="45%">
+</div>
+
+### With Testo 420 commerical outlet sensor
 <div align=center>
 <img src="Image/Result2.png" alt="flowchart" width="500"/>
 </div>
