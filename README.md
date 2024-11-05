@@ -6,7 +6,7 @@ This platform consists of 3 parts: \
 - Cloud compution.
 - Apllication.
 
-![flowchart](Image/flowchart.png)
+![flowchart](<img src="Image/flowchart.png" alt="flowchart" width="500"/>)
 
 ## Hardware
 - Power monitor part
