@@ -1,12 +1,15 @@
 # Realtime HVAC system performace ckeck kit
-This is a IoT based platform for check Coefficient of Performance (COP) real-time in VRF system. 
+This is a IoT based BI-Tech platform for check Coefficient of Performance (COP) real-time in VRF system. 
+<img alt="" src="Image\BI-Tech.gif" style="margin: 0 auto;" />
 ## Introduction
-This platform consists of 3 parts: \
+This platform consists of 3 parts: 
 - Offline Training.
 - Cloud compution.
 - Apllication.
 
-<img src="Image/flowchart.png" alt="flowchart" width="500"/>
+
+<img src="Image/flowchart.png" alt="flowchart" width="500" style="margin: 0 auto;" />
+
 
 ## Hardware
 - Power monitor part
