@@ -3,7 +3,7 @@
 This is an IoT based BI-Tech(Behavioral Insight X Technology) platform for check Coefficient of Performance (COP) real-time in VRF system.
 
 <div align=center>
-<img src="Image/BI-Tech.gif" width="300" > 
+<img src="Image/BI-Tech.gif" width="200" > 
 </div>
 
 
