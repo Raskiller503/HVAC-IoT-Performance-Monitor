@@ -1,4 +1,4 @@
-# Realtime HVAC system performace ckeck kit
+# Real-time HVAC system performance check kit
 
 This is an IoT based BI-Tech(Behavioral Insight X Technology) platform for check Coefficient of Performance (COP) real-time in VRF system.
 
